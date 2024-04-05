@@ -9,7 +9,7 @@
     "nodekurajintea": "^1.2.0",
     "rejekiteteh": "^1.0.5"
   },
-  "name": "kurakurajin",
+  "name": "sawahkatayan",
   "version": "1.0.2",
   "description": "nodekurajin",
   "main": "index.js",
@@ -28,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/nodekurajin/kurakurajin/issues"
   },
-  "homepage": "https://github.com/nodekurajin/kurakurajin#readme"
+  "homepage": "https://github.com/nodekurajin/kurakurajin#readme",
+  "devDependencies": {}
 }
