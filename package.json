@@ -21,13 +21,13 @@
   ],
   "author": "nodekurajin",
   "license": "ISC",
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodekurajin/kurakurajin.git"
+    "url": "git+https://github.com/nodekurajin/sawahkatayan.git"
   },
   "bugs": {
-    "url": "https://github.com/nodekurajin/kurakurajin/issues"
+    "url": "https://github.com/nodekurajin/sawahkatayan/issues"
   },
-  "homepage": "https://github.com/nodekurajin/kurakurajin#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/nodekurajin/sawahkatayan#readme"
 }
