@@ -10,7 +10,7 @@
     "rejekiteteh": "^1.0.5"
   },
   "name": "sawahkatayan",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nodekurajin",
   "main": "index.js",
   "scripts": {
