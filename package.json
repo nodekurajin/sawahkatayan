@@ -23,7 +23,7 @@
     "tehmusimhujan": "^1.0.0"
   },
   "name": "sawahkatayan",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "nodekurajin",
   "main": "index.js",
   "scripts": {
